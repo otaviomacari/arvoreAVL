@@ -1,0 +1,10 @@
+O algoritmo de inserção na árvore AVL verifica o fator de balanceamento.
+Quando o fator de balanceamento é maior que 1 ou menor que -1, ocorre rotação.
+A rotação simples à direita resolve o caso esquerda-esquerda.
+A rotação simples à esquerda resolve o caso direita-direita.
+A rotação dupla esquerda-direita resolve o caso esquerda-direita.
+A rotação dupla direita-esquerda resolve o caso direita-esquerda.
+A árvore AVL foi proposta por Adelson-Velsky e Landis em 1962.
+Implementar AVL em C exige atenção ao gerenciamento de memória.
+A busca em uma AVL é eficiente mesmo no pior caso.
+Cada inserção pode exigir no máximo uma rotação para rebalancear.

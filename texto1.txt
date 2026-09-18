@@ -1,0 +1,8 @@
+A estrutura de dados é fundamental para a ciência da computação.
+Algoritmos eficientes dependem de boas estruturas de dados.
+A árvore AVL é uma estrutura balanceada que garante busca em O(log n).
+Cada nó da árvore armazena uma palavra e suas ocorrências.
+A indexação de textos permite busca rápida em grandes volumes de dados.
+O algoritmo de balanceamento usa rotações para manter a altura mínima.
+Estruturas como pilha, fila e árvore são essenciais na computação.
+A busca binária em árvores AVL tem complexidade logarítmica.

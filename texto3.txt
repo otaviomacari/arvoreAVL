@@ -1,0 +1,10 @@
+Estrutura de dados é a disciplina que estuda formas de organizar informação.
+Listas encadeadas, pilhas e filas são estruturas lineares.
+Árvores e grafos são estruturas não lineares muito utilizadas.
+A tabela hash oferece acesso em tempo constante na média.
+O índice invertido é usado em mecanismos de busca como o Google.
+Cada palavra do corpus é mapeada para uma lista de documentos.
+A normalização remove acentos e converte para letras minúsculas.
+O pré-processamento é etapa essencial na indexação de documentos.
+Sistemas de recuperação de informação usam índices eficientes.
+A complexidade de espaço do índice depende do tamanho do corpus.
